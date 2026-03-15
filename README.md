@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 - 🎓 Engineering student at **Ramdeobaba University, Nagpur**
-- 🤖 Working on **IoT-based Pothole Detection using ESP32 & TensorFlow**
 - 💻 Passionate about **Embedded Systems, Machine Learning & Problem Solving**
 - 🌱 Currently learning **Advanced DSA & AI Model Deployment**
 - 📫 Reach me at: **sumit123raut@gmail.com**
